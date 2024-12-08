@@ -1,5 +1,5 @@
-Hi!🐰<br/>
+Hi there! 🐰<br/>
 
-🌱 I’m currently learning C# and Python<br/>
-🎮 I enjoy problem solving and playing games!<br/>
-💭 Feel free to check out any of my repos and offer improvements 😄
+🌱 I’m a graduate software engineer who loves crafting smart, elegant solutions to tricky problems.<br/>
+🚀 My expertise lies in object-oriented programming, with a strong focus on languages like C# and Java.<br/>
+💭 Feel free to explore my repositories and share your thoughts or suggestions — collaboration is always welcome! 😄  
